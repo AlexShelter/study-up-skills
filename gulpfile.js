@@ -23,7 +23,7 @@ gulp.task('create-min-css', function (done) {
   gulp.src('*/*.css')
       .pipe(cssmin())
       .pipe(rename({suffix: '.min'}))
-      .pipe(gulp.dest('dist'));
+      .pipe(gulp.dest('./'));
       done();
 });
 
