@@ -1,0 +1,22 @@
+{
+  "name": "study-up-skills",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexShelter/study-up-skills.git"
+  },
+  "author": "AlexandrSharganov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexShelter/study-up-skills/issues"
+  },
+  "homepage": "https://github.com/AlexShelter/study-up-skills#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
